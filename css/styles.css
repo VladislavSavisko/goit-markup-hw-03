@@ -220,10 +220,6 @@ h1 {
     color: #434455;
 }
 
-.page-section-2 h2 {
-    display: none;
-}
-
 ul.features-text {
     display: flex;
     align-items: center;
@@ -231,7 +227,8 @@ ul.features-text {
 }
 
 .features-item {
-    width: calc((100% - 72px) / 4);
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 
@@ -253,6 +250,17 @@ ul.features-text {
     margin-bottom: 72px;
 }
 
+.third-section-item-description {
+    padding: 32px 0;
+}
+
+.third-section-item-description {
+    text-align: center;
+}
+
+h3.third-section-item-header {
+    margin-bottom: 8px;
+}
 
 ul.page-text-bord {
     display: flex;
