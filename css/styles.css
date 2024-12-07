@@ -207,6 +207,9 @@ h1 {
     background-color: #404BBF;
 }
 
+.features-item {
+    width: calc((100% - 72px) / 4);
+}
 
 .features-htxt {
     margin-bottom: 8px;
@@ -239,7 +242,6 @@ ul.features-text {
 }
 
 .section-team {
-    background-color: #FFFFFF;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -329,11 +331,6 @@ ul.page-text-bord {
     margin-bottom: 8px;
 }
 
-.page-txt-next-item {
-    padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-}
 
 .main-txt {
     font-weight: 400;
@@ -341,6 +338,12 @@ ul.page-text-bord {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.forth-section-wrap-text {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
 }
 
 .footer-logo {
