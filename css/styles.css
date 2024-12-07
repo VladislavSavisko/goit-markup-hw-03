@@ -294,7 +294,6 @@ ul.page-text-bord {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    padding: 32px 0;
 }
 
 
@@ -378,7 +377,6 @@ ul.page-text-bord {
 }
 
 .main-text-footer {
-    margin-top: 16px;
     display: block;
     max-width: 264px;
     font-weight: 400;
