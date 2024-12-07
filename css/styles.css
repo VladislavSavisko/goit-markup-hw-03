@@ -207,6 +207,12 @@ h1 {
     background-color: #404BBF;
 }
 
+
+.page-section-two {
+    padding: 120px 0;
+}
+
+
 .features-item {
     width: calc((100% - 72px) / 4);
 }
@@ -228,13 +234,6 @@ ul.features-text {
     align-items: center;
     gap: 24px;
 }
-
-.features-item {
-    padding-top: 120px;
-    padding-bottom: 120px;
-}
-
-
 
 .page-section-three {
     background-color: #F4F4FD;
@@ -297,6 +296,13 @@ ul.page-text-bord {
     color: #434455;
     padding: 32px 0;
 }
+
+
+.last-section {
+    padding: 120px 0;
+}
+
+
 
 .text-portfolio {
     font-weight: 700;
